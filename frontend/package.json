@@ -1,0 +1,21 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "本目录提供一个与现场触摸屏一致的静态前端界面，覆盖主界面及回转、压紧、进给三个伺服参数画面。",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^3.2.47"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.3.4",
+    "@vue/compiler-sfc": "^3.2.47",
+    "vite": "^2.9.16"
+  }
+}
